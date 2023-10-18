@@ -1,0 +1,140 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Tourney&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
+h1 {
+  font-family: 'Tourney', sans-serif;
+  font-size: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Major Mono Display', monospace;
+  text-align: center;
+  margin-bottom: 55px;
+}
+
+#myButton0 {
+    background-color: white;
+    color:  rgb(0, 0, 0);
+    border: 2px solid  rgb(0, 0, 0);
+    padding: 5px;
+    margin: 2.5px;
+    cursor: pointer;
+    border-color: black;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
+
+#myButton1 {
+    background-color: white;
+    color: rgb(175, 2, 2);
+    border: 2px solid  rgb(175, 2, 2);
+    padding: 5px;
+    margin: 2.5px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
+
+#myButton2 {
+    background-color: white;
+    color: rgb(25, 134, 211);
+    border: 2px solid  rgb(25, 134, 211);
+    padding: 5px;
+    margin: 2.5px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
+
+#myButton3 {
+    background-color: white;
+    color: rgb(214, 217, 21);
+    border: 2px solid   rgb(214, 217, 21);
+    padding: 5px;
+    margin: 2.5px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
+
+#myButton4 {
+    background-color: white;
+    color: rgb(211, 25, 96);
+    border: 2px solid  rgb(211, 25, 96);
+    padding: 5px;
+    margin: 2.5px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
+
+#myButton5 {
+    background-color: white;
+    color: rgb(211, 71, 25);
+    border: 2px solid  rgb(211, 71, 25);
+    padding: 5px;
+    margin: 2.5px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
+
+#myButton6 {
+    background-color: white;
+    color: rgb(25, 211, 115);
+    border: 2px solid  rgb(25, 211, 115);
+    padding: 5px;
+    margin: 2.5px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
+
+#myButton7 {
+    background-color: white;
+    color: rgb(152, 27, 219);
+    border: 2px solid  rgb(152, 27, 219);
+    padding: 5px;
+    margin: 2.5px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
+
+#myButton8 {
+    background-color: white;
+    color: rgb(81, 25, 12);
+    border: 2px solid   rgb(81, 25, 12);
+    padding: 5px;
+    margin: 2.5px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
+
+#myButton9 {
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border: 2px solid  rgb(0, 0, 0);
+    padding: 5px;
+    margin: 2.5px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
+
+
